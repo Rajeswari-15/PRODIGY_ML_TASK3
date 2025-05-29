@@ -1,0 +1,11 @@
+# Ignore all zip files
+*.zip
+
+# Ignore data folders
+test1/
+train/
+
+# Ignore any IDE or OS files you don't want (optional)
+.vscode/
+.DS_Store
+Thumbs.db
